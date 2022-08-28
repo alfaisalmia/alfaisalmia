@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Al Faisal Mia</h1>
 <h3 align="center">A passionate web application developer from Bangladesh</h3>
+### Hi there 👋, I'm Al Faisal Mia
+## Web Application Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfaisalmia&label=Profile%20views&color=0e75b6&style=flat" alt="alfaisalmia" /> </p>
 
