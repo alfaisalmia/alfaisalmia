@@ -1,3 +1,4 @@
+<img align="center" src="https://media-exp1.licdn.com/dms/image/C5616AQG8LZeRVdXDjQ/profile-displaybackgroundimage-shrink_350_1400/0/1630355106225?e=1667433600&v=beta&t=zwO_5CzW6m-3c99Rx7c8afwLb5e1lJ5FgUbAZRQVOuU" alt="alfaisalapon" height="130px" width="100%" />
 <h1 align="center">Hi 👋, I'm Al Faisal Mia</h1>
 <h3 align="center">A passionate web application developer from Bangladesh</h3>
 <p>I am a web application developer and have rich industrial experience in website, web app development, building, and customization. I am well skilled in a diverse segment of outsourcing along with an online career. I have been working on this platform for the last four years.
