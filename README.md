@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Al Faisal Mia</h1>
 <h3 align="center">A passionate web application developer from Bangladesh</h3>
-### Hi there 👋, I'm Al Faisal Mia
-## Web Application Developer
+<p>I am a web application developer and have rich industrial experience in website, web app development, building, and customization. I am well skilled in a diverse segment of outsourcing along with an online career. I have been working on this platform for the last four years.
+
+I'm open to work and employment opportunities.
+
+Skills: PHP / LARAVEL / CODEIGNITER / MYSQL / WORDPRESS/ VUE JS / JS </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfaisalmia&label=Profile%20views&color=0e75b6&style=flat" alt="alfaisalmia" /> </p>
 
